@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-22">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="G:/Tai Lieu/Huong su kien/20051741_CaoNhanHoa/src/tuan8_LopHoc/lib/sqljdbc42.jar"/>
+	<classpathentry kind="lib" path="G:/Tai Lieu/Huong su kien/PTUD_Nhom16_QuanLyLuongNhanVien/lib/AbsoluteLayout-RELEASE125.jar"/>
+	<classpathentry kind="lib" path="G:/Tai Lieu/Huong su kien/PTUD_Nhom16_QuanLyLuongNhanVien/lib/itextpdf-5.5.13.2.jar"/>
+	<classpathentry kind="lib" path="G:/Tai Lieu/Huong su kien/PTUD_Nhom16_QuanLyLuongNhanVien/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="G:/Tai Lieu/Huong su kien/PTUD_Nhom16_QuanLyLuongNhanVien/lib/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="G:/Tai Lieu/Huong su kien/PTUD_Nhom16_QuanLyLuongNhanVien/lib/jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
